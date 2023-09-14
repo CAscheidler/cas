@@ -10,5 +10,5 @@ toc: false
 {{< /callout >}}
 
 {{< cards >}}
-  	{{< card link="/toc" title="Table of Contents" icon="home" >}}
+  	{{< card link="/cas/toc" title="Table of Contents" icon="home" >}}
 {{< /cards >}}
