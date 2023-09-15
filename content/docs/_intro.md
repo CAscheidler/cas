@@ -87,7 +87,7 @@ But access, in and of itself, only paints a small part of the picture. Some acce
 
   
 
-![A black and white drawing of many wires and tubes in the shape of a large factory](factory.png "A placeholder image [AI generated]")
+![A black and white drawing of many wires and tubes in the shape of a large factory](intro.dither.png "A placeholder image [AI generated]")
 
   
 
