@@ -5,7 +5,6 @@ prev: _index
 next: 
 ---
 
-**References**
  
 Altenried, Moritz. (2022). The Digital Factory: The human labor of automation. University of Chicago Press.
 
