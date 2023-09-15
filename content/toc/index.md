@@ -2,7 +2,7 @@
 title: Weird and Wired / Digital Literacy and Vigilant Designs
 toc: true
 ---
-[proposal](content/docs/_index.md)
+
 {{< cards >}}
   	{{< card link="https://cascheidler.github.io/cas/docs/" title="Proposal" icon="user" >}}
 	{{< card link="https://cascheidler.github.io/cas/docs/_intro/" title="Introduction" icon="book-open" >}}
