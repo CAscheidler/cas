@@ -3,7 +3,7 @@ title: A circuit around the world
 prev: //
 next: chapter-one
 ---
-
+test 2
 > “Steve Jobs promised us computers as “bicycles for the mind”; what we got instead are assembly lines for the spirit.”  (Evgeny Morozov, February 4, 2019)
 
  
