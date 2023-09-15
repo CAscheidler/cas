@@ -8,7 +8,3 @@ toc: true
 {{< callout >}}
   This book is in proposal format and should not to be widely circulated. The current version 9.14.24 includes a proposal and introduction chapter. 
 {{< /callout >}}
-
-{{< cards >}}
-  	{{< card link=(content/toc/_index) title="Table of Contents" icon="home" >}}
-{{< /cards >}}
