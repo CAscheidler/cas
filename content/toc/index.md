@@ -2,9 +2,9 @@
 title: Weird and Wired / Digital Literacy and Vigilant Designs
 toc: true
 ---
-
+[proposal](/docs/_index.md)
 {{< cards >}}
-  	{{< card link="proposal" title="Proposal" icon="user" >}}
+  	{{< card link=(proposal) title="Proposal" icon="user" >}}
 	{{< card link="_intro" title="Introduction" icon="book-open" >}}
 	{{< card link="/chapter-one" title="Chapter One: Weird by design " icon="newspaper" >}}
 	{{< card link="/docs/chapter-two" title="Chapter Two: Wired by extension " icon="chip" >}}
